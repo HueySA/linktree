@@ -1,0 +1,28 @@
+body {
+    font-size: 15pt;
+    background: #D5B942;
+    padding: 10px;
+    text-align: center;
+}
+h1 {
+  color: yellow;
+}
+p {
+  text-align: center;
+  color: white;
+}
+.profile-img {
+  width: 100%;
+  border-radius: 10%
+}
+.btn {
+  display: block;
+  color: black;
+  padding: 30px;
+  background: white;
+  margin: 16px;
+  box-shadow:5px 10px;
+}
+a {
+  text-decoration: none;
+}
